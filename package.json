@@ -1,18 +1,18 @@
 {
-  "name" : "vidfeed",
-  "version": "1.0.9",
+  "name": "vidfeed",
+  "version": "1.0.10",
   "description": "Get youtube channel RSS feed URL given video, user or channel link",
   "keywords": [
-      "youtube",
-      "subscribe",
-      "subscription",
-      "feed",
-      "url",
-      "link",
-      "rss",
-      "video",
-      "parse",
-      "fetch"
+    "youtube",
+    "subscribe",
+    "subscription",
+    "feed",
+    "url",
+    "link",
+    "rss",
+    "video",
+    "parse",
+    "fetch"
   ],
   "main": "index.js",
   "bin": {
@@ -24,7 +24,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "vid_data": "^0.1.2"
+    "vid_data": "^0.3.0"
   },
   "repository": {
     "type": "git",
