@@ -1,6 +1,6 @@
 {
   "name": "vidfeed",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Get youtube channel RSS feed URL given video, user or channel link",
   "keywords": [
     "youtube",
